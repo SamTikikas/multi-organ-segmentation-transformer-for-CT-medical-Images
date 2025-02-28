@@ -87,7 +87,8 @@
 
 ## Project Screenshots
 
-(Screenshots showcasing different models, mobile app UI, and deployment process.)
+![image](https://github.com/user-attachments/assets/2f339761-70e7-4f5c-8638-3347ac5a2403)
+
 
 ## Summary
 
